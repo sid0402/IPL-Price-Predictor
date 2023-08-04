@@ -21,4 +21,4 @@ To process the dataset, run the following on terminal:
 python ml/data_processing.py
 ```
 
-The two files, ml/train.py and ml/train_bowl.py builds the batting/wicketkeeper model and bowler/allrounder models respectively. 
+The two files, ml/train.py and ml/train_bowl.py builds the batting/wicketkeeper model and bowler/allrounder models respectively.
