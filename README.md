@@ -25,6 +25,6 @@ The two files, ml/train.py and ml/train_bowl.py builds the batting/wicketkeeper 
 
 # Datasets
 The "IPLPlayerAuctionData.xlsx" dataset was taken from Kaggle. This dataset was upgraded by scraping from howstat.com, and the upgraded dataset is "AuctionId.csv". The following features were scraped:
-1. Career Statistics (Matches, Innings batted, Aggregate runs, Average, Highest Score, 30s, 50s, 100s, 4s, 6s, Scoring Rate, Overs Bowled, Wickets, 3 wickets in an innings, Economy Rate, Bowling Strike Rate)
-2. Career statistics until the auction year (Matches, Aggregate runs, Batting Average, Scoring Rate, Wickets taken, Economy Rate, Bowling Strike Rate, Bowling average)
-3. Last Season Statistics (Matches, Runs scored, Highest Score, Batting Average, Scoring Rate, Overs bowled, Wickets taken, Bowling average, Bowling Strike Rate)
+1. <b>Career Statistics</b> (Matches, Innings batted, Aggregate runs, Average, Highest Score, 30s, 50s, 100s, 4s, 6s, Scoring Rate, Overs Bowled, Wickets, 3 wickets in an innings, Economy Rate, Bowling Strike Rate)
+2. <b>Career statistics until the auction year</b>(Matches, Aggregate runs, Batting Average, Scoring Rate, Wickets taken, Economy Rate, Bowling Strike Rate, Bowling average)
+3. <b>Last Season Statistics</b> (Matches, Runs scored, Highest Score, Batting Average, Scoring Rate, Overs bowled, Wickets taken, Bowling average, Bowling Strike Rate)
